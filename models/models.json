@@ -1,0 +1,29 @@
+{
+  "name": "Erkhes Mendbayar",
+  "age": 19,
+  "education": {
+    "highSchool": " Mongol bilig oyun",
+    "academy": "Mstars-academy"
+  },
+  "contact": {
+    "facebook": "Erkhes Mendbayar",
+    "instagram": "erksss.28",
+    "phone-number": 95401555,
+    "facebookUrl": "https://www.facebook.com/erksss.28"
+  },
+  "image": "https://static.wikia.nocookie.net/bleach/images/6/68/682Aizen_profile.png/revision/latest?cb=20190617062621&path-prefix=en",
+  "profession": "Full-stack Developer",
+  "skills": {
+    "frontEnd": [
+      "html",
+      "css",
+      "tailwind",
+      "bootstrap",
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "backEnd": ["nodejs", "express"],
+    "otherProgramming": ["c++", "python"]
+  }
+}
